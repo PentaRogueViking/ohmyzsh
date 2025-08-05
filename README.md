@@ -5,7 +5,7 @@ configuration.
 
 Sounds boring. Let's try again.
 
-**Oh My Zsh will not make you a 10x developer...but you may feel like one.**
+**Oh My Zsh will not mke you a 10x developer...but you may feel like one.**
 
 Once installed, your terminal shell will become the talk of the town _or your money back!_ With each keystroke
 in your command prompt, you'll take advantage of the hundreds of powerful plugins and beautiful themes.
